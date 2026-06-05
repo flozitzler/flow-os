@@ -9,7 +9,6 @@ import { QuickActions } from "@/components/dashboard/quick-actions";
 import { CostWidget } from "@/components/dashboard/cost-widget";
 import { Loader2 } from "lucide-react";
 import type { Metric } from "@/lib/data";
-import { pipelines } from "@/lib/data";
 
 interface AgentData {
   agents: Array<{

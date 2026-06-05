@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AI-OS | Command Center",
-  description: "Your premium AI Operating System — mission control for agents, pipelines, and content.",
+  title: "Flow OS | Command Center",
+  description: "Mission control for your AI infrastructure — agents, pipelines, costs, and content.",
 };
 
 export default function RootLayout({

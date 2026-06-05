@@ -48,7 +48,7 @@ export function Sidebar() {
         {!collapsed && (
           <div className="flex flex-col">
             <span className="text-sm font-semibold text-foreground tracking-wide">
-              AI-OS
+              Flow OS
             </span>
             <span className="text-[10px] uppercase tracking-[0.2em] text-gold-dim">
               Command Center
